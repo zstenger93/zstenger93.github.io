@@ -292,13 +292,13 @@ const experiences = [
     ],
   },
   {
-    title: "Recepcionist & English teacher",
+    title: "Receptionist & English teacher",
     language: "skill: English, Japanese, Teaching",
     icon: japan,
     iconBg: "#E6DEDD",
     date: "February 2020 - September 2021",
     points: [
-      "I was a recepcionist in different resorts and hostels.",
+      "I was a receptionist in different resorts and hostels.",
       "I worked in Hiroshima, Kyoto, Osaka, and Kumakogen and learned a lot about hospitality.",
       "Also, I was teaching English in a small local cafe on the countryside.",
       "Our customers ranged from really young to all the way 80+ years old.",
